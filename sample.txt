@@ -1,2 +1,4 @@
 sample file created on 8/7/16
 will sync this into git and then test the sync capability
+
+this is the line I added on 8/7 at 2:14 PM
